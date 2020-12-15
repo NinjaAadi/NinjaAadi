@@ -1,10 +1,10 @@
-<img src="" align="left" style="width: 100%" />  
+
   
 
 ### **<div align="center">I am Aaditya Pal. I am full stack developer and a competitive programmer. </div>**  
   
 
-- 🔭 Codechef 4⭐️  
+- 🔭 Codechef 4⭐️(1977)  
   
 
 -  I’m currently practicing Competitive Programming  
