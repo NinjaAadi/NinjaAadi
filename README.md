@@ -4,7 +4,7 @@
 ### **<div align="center">I am Aaditya Pal. I am full stack developer and a competitive programmer. </div>**  
   
 
-- 🔭 Codechef 5⭐️(2020)  
+- 🔭 Codechef 5⭐️(2077)  
   
 
 -  I’m currently practicing Competitive Programming  
