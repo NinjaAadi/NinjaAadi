@@ -1,113 +1,132 @@
+<h1 align="center">Hi 👋, I'm Aaditya Pal</h1>
+<h3 align="center">🚀 Software Engineer | Distributed Systems | AI/LLMs | Competitive Programmer</h3>
 
-  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Systems;AI+%2F+LLMs+Enthusiast;Competitive+Programmer;Backend+Engineer&center=true&width=500&height=50">
+</p>
 
-### **<div align="center">I am Aaditya Pal. I am full stack developer and a competitive programmer. </div>**  
-  
+---
 
-- 🔭 Codechef 5⭐️(2077)  
-  
+## 🚀 About Me  
 
--  I’m currently practicing Competitive Programming  
-  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- ❓ Ask me about anything related to MERN stack and Data Structures and Algorithms.  
-  
+- 💻 Software Engineer at **Razorpay**
+- ⚡ 3+ years building **high-scale distributed systems**
+- 🧠 Working on **LLMs, RAG pipelines, AI systems**
+- 🔥 CodeChef **5⭐ (2077)**
+- ☁️ Experienced in **AWS, GCP, Kafka, Redis, Kubernetes**
+- 🏗️ Love designing **low-latency, high-throughput systems**
 
-- React is love❤️  
-  
+---
 
-<br/>  
+## 🧠 Tech Stack  
 
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,go,kotlin" />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### ⚙️ Backend & Systems  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge" />
+</p>
 
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
+### ☁️ DevOps & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" />
+</p>
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-</div>
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,elasticsearch" />
+</p>
 
-</td><td valign="top" width="33%">
+### 🤖 AI / ML  
+<p>
+  <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/VectorDB-purple?style=for-the-badge" />
+</p>
 
+---
 
+## 💼 Experience  
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div>
+### 🏢 Razorpay  
+- ⚡ Built **Amazon Pay Later & Wallet integrations** → 50K+ transactions/day  
+- 🚀 Designed **event-driven systems (Kafka + CDC)** → 99.99% reliability  
+- 📈 Scaled infra with **Kubernetes** → 3x traffic capacity  
+- 💳 Improved checkout success & conversion rates  
 
-</td><td valign="top" width="33%">
+### 🏢 Moveinsync  
+- 🧩 Built **payment microservice** using Spring Boot + Kafka  
+- ⚡ Improved DB performance by **40% (partitioning + sharding)**  
 
+### 🏢 Nomura  
+- 🔁 Built **message routing system** using Apache Camel & ActiveMQ  
+- ⚡ Optimized performance using **Redis + multithreading**  
 
+---
 
-### Competitive Programming  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
+## 🚀 Featured Project  
 
-</td></tr></table>  
+### 🧠 AlphaMind  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-System-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM-green?style=for-the-badge">
+</p>
 
-<br/>  
+- 📊 Stock prediction using **Temporal Fusion Transformer (TFT)**  
+- 🧠 Natural language Q&A with **RAG + LLMs (Llama/Ollama)**  
+- 🔍 Semantic search using **ChromaDB + embeddings**  
+- ⚡ Hybrid retrieval for **low latency + high accuracy**  
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/NinjaAadi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+## 🏆 Competitive Programming  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-5⭐-brown?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DSA-Strong-green?style=for-the-badge">
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+<a href="https://github.com/NinjaAadi">
+<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
 </a>
-<a href="https://linkedin.com/in/aaditya-pal-8355221a5" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/aaditya-pal-8355221a5">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="https://instagram.com/____aaditya001____" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<a href="https://instagram.com/____aaditya001____">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram">
+</a>
+</p>
 
-<br/>  
+---
 
+## 📊 GitHub Stats  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NinjaAadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NinjaAadi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaAadi&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>  
+---
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NinjaAadi&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NinjaAadi&style=flat-square&color=blue" />
+</p>
